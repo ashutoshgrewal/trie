@@ -1,10 +1,3 @@
-//
-//  main.c
-//  trie
-//
-//  Created by Ashutosh Grewal on 12/4/16.
-//  Copyright © 2016 Ashutosh Grewal. All rights reserved.
-//
 /*
  * Copyright © 2016 Ashutosh Grewal. All rights reserved.
  *
@@ -13,11 +6,6 @@
  *
  * @brief This file just contains some code that uses the APIs of
  * trie data structure
- *
- * @declaration
- * The forward declaration of trie only allows to create pointers
- * to this struct and not the struct itself while the definition of
- * boolean - as expected - doesn't put any restrictions.
  */
 
 #include <stdio.h>
