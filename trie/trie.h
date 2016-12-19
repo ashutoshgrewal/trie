@@ -1,4 +1,4 @@
-/*
+/**
  * Copyright © 2016 Ashutosh Grewal. All rights reserved.
  *
  * @file trie.h
